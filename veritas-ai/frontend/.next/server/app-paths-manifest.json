@@ -1,0 +1,8 @@
+{
+  "/(app)/risk/page": "app/(app)/risk/page.js",
+  "/(app)/compliance/page": "app/(app)/compliance/page.js",
+  "/(app)/graph/page": "app/(app)/graph/page.js",
+  "/(app)/upload/page": "app/(app)/upload/page.js",
+  "/(app)/settings/page": "app/(app)/settings/page.js",
+  "/(app)/dashboard/page": "app/(app)/dashboard/page.js"
+}

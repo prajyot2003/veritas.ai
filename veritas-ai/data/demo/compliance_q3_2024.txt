@@ -1,0 +1,30 @@
+QUARTERLY COMPLIANCE REPORT
+Q3 FY 2024-25 (October - December 2024)
+
+Prepared for: Canara Bank, MSME Division
+Compliance Period: 01-Oct-2024 to 31-Dec-2024
+
+1. KYC Compliance Status:
+   - Total customers reviewed: 1,250
+   - High-risk customers with updated KYC: 98.4%
+   - Pending KYC updates: 20
+   - Action: Complete by 15-Jan-2025
+
+2. Suspicious Transaction Reports (STR):
+   - STRs filed this quarter: 3
+   - Average filing time: 5.2 days (within 7-day limit)
+   - FIU-IND acknowledgements received: 3/3
+
+3. SEBI LODR Compliance:
+   - Board meeting disclosures: Filed within 30 minutes ✓
+   - Financial results submitted: Within 45 days ✓
+   - Related Party Transactions: Disclosed as per regulation ✓
+
+4. Beneficial Ownership Audit:
+   Status: IN PROGRESS
+   Entities audited: 45/60
+   Non-compliant entities: 3 (action pending)
+
+Overall Compliance Score: 87/100
+Compliance Officer: Mr. Anil Mehta (CA, CAIIB)
+Date: 15-Jan-2025

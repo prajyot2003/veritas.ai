@@ -1,0 +1,26 @@
+
+RBI MASTER DIRECTION ON KYC (RBI/2023-24/10)
+
+1. CUSTOMER DUE DILIGENCE (CDD)
+All banks must conduct Customer Due Diligence at the time of account opening
+and on an ongoing basis. Documents required:
+- Proof of Identity (Aadhaar, PAN, Passport, Driving License)
+- Proof of Address (Utility bill, Bank statement)
+- Recent photograph
+
+2. RECORD KEEPING
+KYC records must be maintained for a minimum of 5 years after the
+business relationship has ended or the transaction has been completed.
+
+3. RISK CATEGORIZATION
+Customers shall be categorized as Low, Medium, or High risk.
+- High risk: PEPs, NRIs, entities in high-risk jurisdictions
+- Periodic update: High-risk (2 years), Medium (8 years), Low (10 years)
+
+4. ENHANCED DUE DILIGENCE (EDD)
+EDD is mandatory for: Politically Exposed Persons, Non-Face-to-Face customers,
+accounts of correspondent banks, and customers in high-risk countries.
+
+5. SUSPICIOUS TRANSACTION REPORTING
+Banks must file Suspicious Transaction Reports (STR) with FIU-IND within 7 days
+of forming a reasonable ground for suspicion.

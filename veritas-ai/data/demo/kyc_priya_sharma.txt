@@ -1,0 +1,23 @@
+KYC DOCUMENT — INDIVIDUAL
+
+Customer Name: Priya Sharma
+Date of Birth: 22/08/1985
+PAN Number: DEFPS5678G
+Aadhaar Number: XXXX XXXX 9012
+
+Address:
+45, Green Park, New Delhi - 110016
+
+Identity Proof: Passport (No: P1234567)
+Address Proof: Aadhaar Card
+
+Bank Account: Canara Bank, Connaught Place
+Account No: 789012345678
+IFSC: CNRB0005678
+
+Customer Risk Category: LOW
+KYC Status: Complete and Verified
+Last KYC Update: 15/03/2024
+
+Verified By: Branch Manager
+Date: 15/03/2024

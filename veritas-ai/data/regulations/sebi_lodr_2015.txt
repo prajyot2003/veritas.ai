@@ -1,0 +1,21 @@
+
+SEBI LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS (LODR) REGULATIONS 2015
+
+REGULATION 27: COMPLIANCE REPORT ON CORPORATE GOVERNANCE
+Listed entities shall submit a quarterly compliance report on corporate governance
+to the stock exchange within 21 days from the end of each quarter.
+
+REGULATION 30: DISCLOSURE OF EVENTS
+Listed entities must disclose to the stock exchanges all events or information
+which, in the opinion of the board, are material, within 24 hours.
+
+Board meeting outcomes must be disclosed within 30 minutes of conclusion.
+
+REGULATION 33: FINANCIAL RESULTS
+Listed entities shall submit financial results within:
+- Quarterly results: 45 days from end of quarter
+- Annual results: 60 days from end of financial year
+
+RELATED PARTY TRANSACTIONS
+All material RPTs shall require shareholder approval through ordinary resolution.
+RPTs must be disclosed in quarterly/annual financial results.

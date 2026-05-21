@@ -1,0 +1,30 @@
+KYC DOCUMENT — INDIVIDUAL
+
+Customer Name: Rajesh Kumar
+Date of Birth: 12/05/1975
+PAN Number: ABCPK1234D
+Aadhaar Number: XXXX XXXX 5678
+
+Address (As per Aadhaar):
+12, Sai Nagar, Andheri West, Mumbai - 400053
+Maharashtra, India
+
+Current Address:
+RK Holdings Pvt Ltd
+4th Floor, Business Center, BKC, Mumbai - 400051
+
+Identity Proof: Aadhaar Card
+Address Proof: Utility Bill (March 2024)
+Photograph: Attached
+
+Bank Account: Canara Bank, BKC Branch
+Account No: 456789012345
+IFSC: CNRB0001234
+
+Customer Risk Category: HIGH (flagged for review)
+KYC Status: Under Enhanced Due Diligence
+Last KYC Update: 01/12/2023
+
+Verified By: Branch Manager
+Signature: [SIGNED]
+Date: 01/12/2023
